@@ -137,12 +137,12 @@ body {
     flex-direction: row;
     align-items: center;
 }
-/* Mobile layout    */
-@media only screen and (max-width: 500px) {
+/* Removing to test mobile layout options */
+/* @media only screen and (max-width: 500px) {
     body {
         justify-content: flex-start;
     }
-}
+} */
 
 /* Attribution */
 .attribution { 
